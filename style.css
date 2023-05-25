@@ -1,0 +1,29 @@
+.imagens{
+    width: 400px;
+    border: 30px solid red;
+    box-sizing: border-box;
+}
+
+span {
+    font-size: 35px;
+    background-color: rgb(103, 103, 255);
+}
+html {
+    background-color: black;
+}
+
+.sikils {
+    font-size: 40px;
+    background-color: rgb(103, 103, 255);
+    width: 50%;
+}
+
+.lista {
+    background-color: #585757;
+    font-size: 30px;
+}
+
+h1 {
+    background-color: rgb(103, 103, 255);
+    width: 30%;
+}
